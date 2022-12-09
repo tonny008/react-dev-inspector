@@ -1,21 +1,27 @@
 # Changelog
 
 
-## [1.8.3](https://github.com/zthxxx/react-dev-inspector/compare/v1.8.2...v1.8.3) (2022-10-17)
+## [1.8.4](https://github.com/zthxxx/react-dev-inspector/compare/v1.8.1...v1.8.4) (2022-12-09)
+
+### revert
+
+* revert v1.8.3 / v1.8.2 due to umi3/umi4 build TypeError
+
+
+## [1.8.3](https://github.com/zthxxx/react-dev-inspector/compare/v1.8.2...v1.8.3) `Deprecated` (2022-12-08)
 
 ### feat
 
 * compatible with `umi3`/`umi4` `addBeforeMiddlewares`/`addBeforeMiddewares` plugin api ([99ff088](https://github.com/zthxxx/react-dev-inspector/commit/99ff088ec6b461135c07c276dba07090c6bb74b7))
 
 
-## [1.8.2](https://github.com/zthxxx/react-dev-inspector/compare/v1.8.1...v1.8.2) (2022-10-17)
+## [1.8.2](https://github.com/zthxxx/react-dev-inspector/compare/v1.8.1...v1.8.2) `Deprecated` (2022-10-17)
 
 ### feat
 
 * compatible with `umi4` plugin api ([8a504d8](https://github.com/zthxxx/react-dev-inspector/commit/8a504d8e723c3d75aa6f553e73ac1f7023f0e9c9))
 
-
-## [1.8.1](https://github.com/zthxxx/react-dev-inspector/compare/v1.8.0...v1.8.1) (2022-06-15)
+## [1.8.1](https://github.com/zthxxx/react-dev-inspector/compare/v1.8.0...v1.8.1) (2021-06-15)
 
 ### fix
 
@@ -30,7 +36,7 @@
 * update all non-major dependencies
 
 
-## [1.8.0](https://github.com/zthxxx/react-dev-inspector/compare/v1.7.1...v1.8.0) (2022-04-18)
+## [1.8.0](https://github.com/zthxxx/react-dev-inspector/compare/v1.7.1...v1.8.0) (2021-04-18)
 
 
 ### feat
